@@ -1,0 +1,29 @@
+{
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "description": "create node-red",
+  "keywords": [
+    "node-red"
+  ],
+
+  "node-red": {
+    "nodes": {
+    "taiponrock": "node.js"
+            }
+  },
+  "homepage": "https://github.com/eng-oumayma/node-red-contrib-taiponrock#readme",
+  "bugs": {
+    "url": "https://github.com/eng-oumayma/node-red-contrib-taiponrock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eng-oumayma/node-red-contrib-taiponrock.git"
+  },
+  "license": "ISC",
+  "author": "npm account",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
